@@ -1,2 +1,2 @@
 [ubuntu18]
-172.20.10.4 ansible_user=vinayakk
+172.16.135.173 ansible_user=vinayakk
